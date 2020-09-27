@@ -1,0 +1,140 @@
+.pantalla{
+    background-image: url("Imagenes/paisaje8.png");
+    background-size: cover;
+}
+
+header{
+    width: 100%;
+}
+
+#titulo{
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-style: solid;
+    border-color: sandybrown;
+    font-family: cursive;
+    background-image: url("Imagenes/paisaje9.png");
+    background-size: initial;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+}
+
+#nombre{
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+#numero{
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+#telefono{
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+#correo{
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+#gmail{
+    font-family: cursive;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+#subtitulo1{
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    border: solid 1px;
+    border-color: white;
+    background-image: url("Imagenes/paisajeuwu.png");
+    background-size: cover;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#informacionpersonal{
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: cursive;
+    font-size: 17px;
+    color: white;
+}
+
+#subtitulo2{
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    border: solid 1px;
+    border-color: white;
+    background-image: url("Imagenes/paisajeuwu.png");
+    background-size: cover;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#FormacionAc{
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: cursive;
+    font-size: 17px;
+    color: white;
+}
+#futuro{
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    border: solid 1px;
+    border-color: white;
+    background-image: url("Imagenes/paisajeuwu.png");
+    background-size: cover;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#planes{
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: cursive;
+    font-size: 17px;
+    color: white;
+}
+
+#subtitulo4{
+    font-family: cursive;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+    border: solid 1px;
+    border-color: white;
+    background-image: url("Imagenes/paisajeuwu.png");
+    background-size: cover;
+    padding: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#hobbies{
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-family: cursive;
+    font-size: 17px;
+    color: white;
+}
